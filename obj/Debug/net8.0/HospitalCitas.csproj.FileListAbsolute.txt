@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\bin\Debug\net8.0\HospitalCitas.exe
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\bin\Debug\net8.0\HospitalCitas.deps.json
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\bin\Debug\net8.0\HospitalCitas.runtimeconfig.json
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\bin\Debug\net8.0\HospitalCitas.dll
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\bin\Debug\net8.0\HospitalCitas.pdb
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\HospitalCitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\HospitalCitas.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\HospitalCitas.AssemblyInfo.cs
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\HospitalCitas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\HospitalCitas.dll
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\refint\HospitalCitas.dll
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\HospitalCitas.pdb
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\HospitalCitas.genruntimeconfig.cache
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\ref\HospitalCitas.dll
+C:\Users\PC\Downloads\main\fundamentos_programacion-main\obj\Debug\net8.0\Hospital.4C533A26.Up2Date

@@ -1,0 +1,2 @@
+﻿# Citas del hospital. Formato: Numero|Nombres|Apellidos|DNI|Telefono|Seguro|Area|FechaHora|Turno
+# Las líneas que empiezan con # se ignoran.
